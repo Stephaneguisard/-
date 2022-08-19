@@ -1,0 +1,5 @@
+<!--pages/wendu/wendu.wxml-->
+<view>
+<view class="a">当前您所处环境温度为:</view>
+
+</view>

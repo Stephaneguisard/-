@@ -1,0 +1,12 @@
+<view class="container">
+<view class="a">空气质量指数</view>
+<button class="b" bindtap="goNewsTap1">点击查看温度</button>
+<button class="b" bindtap="goNewsTap2">点击查看湿度</button>
+<button class="b" bindtap="goNewsTap3">点击查看PM2.5</button>
+
+<picker mode="region" bindchange="changeregion">
+<view>{{region}}</view>
+</picker>
+
+</view>
+

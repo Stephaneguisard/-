@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/wendu/wendu",
+    "pages/shidu/shidu",
+    "pages/pm2.5/pm2.5"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#0387FE",
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "空气质量数据",
+    "backgroundColor": "#eeeeee",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": false
+  },
+  "sitemapLocation": "sitemap.json"
+}
